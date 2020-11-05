@@ -1,26 +1,17 @@
-# Titulo Principal
-## un Subtitulo
-### Hi there 👋
-#### otro subtitulo
-##### otro mas
+# Marcos Ferro
+## Full Stack Developer / Expenses Lead (Finance)
+##### Coding...
 
-- item 1
-- item 2
-- item 3
-- item 4
-- item 5
+[LinkedIn](https://www.linkedin.com/in/marcos-ferro-baya-609453164/)
 
-[Link a Google](https://google.com)
-
+- 🔭 I’m currently working on Globant
+- 🌱 I’m currently learning Full Stack
 
 
 <!--
 **marcossferro/marcossferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
