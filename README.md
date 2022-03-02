@@ -1,5 +1,6 @@
 # Marcos Ferro
-## Full Stack Developer / Expenses Lead (Finance)
+## Innovation Analyst
+### Certified Tech Developer / Full Stack Developer
 ##### Coding...
 
 [LinkedIn](https://www.linkedin.com/in/marcos-ferro-baya-609453164/)
